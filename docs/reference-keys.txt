@@ -1,0 +1,9 @@
+acknowledgement
+r-programming
+general-information
+create-sequence-of-numbers
+in
+which
+where-is-the-min-max-first-truefalse
+logic-statements
+be-careful
